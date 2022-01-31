@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "CandyBrain's X-Diemsion"
+locale                   : "ko-KR" #"en-US"
+title                    : "감성과 이성의 공존"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "CandyBrain"
