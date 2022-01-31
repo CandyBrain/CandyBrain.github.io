@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "CandyBrain"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Ai와 Data science 를 공부하는 블로그 입니다."
   location         : "Somewhere"
   email            :
   links:
