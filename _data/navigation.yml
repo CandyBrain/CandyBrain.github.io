@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 
-\- title: "Home"
+  - title: "Home"
     url: https://candybrain.github.io/
-  \- title: "Category"
+  - title: "Category"
     url: https://candybrain.github.io/categories/   
