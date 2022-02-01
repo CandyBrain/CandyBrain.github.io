@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://candybrain.github.io/
   - title: "Category"
-    url: /categories/   
+    url: https://candybrain.github.io/categories/   
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
