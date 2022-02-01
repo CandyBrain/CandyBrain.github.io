@@ -107,9 +107,9 @@ analytics:
 author:
   name             : "CandyBrain"
   avatar           : "/assets/images/my_profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg".
-  bio              : "Ai와 Data science 를 공부하는 블로그 입니다."
-  location         : "Seoul"
-  email            :
+  bio              : "AI, Data Science"
+  location         : "Seoul, South Korea"
+  email            : "webpd725@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
